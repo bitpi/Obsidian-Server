@@ -1,0 +1,1 @@
+{"version":3,"file":"migration_strategy.js","sourceRoot":"","sources":["../../src/db/migration_strategy.ts"],"names":["MigrationStrategy"],"mappings":"AAUC,IAAK,iBAKJ;AALD,WAAK,iBAAiB;IACrBA,yDAAIA,CAAAA;IACJA,2DAAKA,CAAAA;IACLA,yDAAIA,CAAAA;IACJA,6DAAMA,CAAAA;AACPA,CAACA,EALI,iBAAiB,KAAjB,iBAAiB,QAKrB;AAED,iBAAS,iBAAiB,CAAC"}
