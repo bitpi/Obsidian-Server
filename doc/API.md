@@ -3,7 +3,7 @@
 
 All built-in CRUD methods take one (or both) of the following objects:
 
-* A `criteria` used to select the records that will be manipulated or retrieved.  For more information, see the [query](./querying.html) documentation.
+* A `criteria` used to select the records that will be manipulated or retrieved.  For more information, see the [query](./querying.md) documentation.
 * A `record` used to provide new/updated records with values for their attributes.
 
 ### Listing Routes

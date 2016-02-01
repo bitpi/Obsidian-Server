@@ -19,7 +19,7 @@ Obsidian Server uses `resources.json` to describe an API's functionality.  After
 
 ## Creating a resource
 
-Here's a great definition of a resource, more information about which can be found [here](http://restful-api-design.readthedocs.org/en/latest/resources.html).
+Here's a great definition of a resource, more information about which can be found [here](http://restful-api-design.readthedocs.org/en/latest/resources.md).
 
 > A resource is an object with a type, associated data, relationships to other resources, and a set of methods that operate on it.
 
@@ -137,12 +137,12 @@ To that end, omitting a method will disable it.
 
 ## Relationships
 
-Obsidian Server supports one-to-one, one-to-many, and many-to-many relationships between resources.  For configuration instructions, see the [relationships](./relationships.html) documentation.
+Obsidian Server supports one-to-one, one-to-many, and many-to-many relationships between resources.  For configuration instructions, see the [relationships](./relationships.md) documentation.
 
 ## Modules
 
-Currently, the only module available is the `user_authentication` module. For more information, consult the [authentication](./authentication.html) reference.
+Currently, the only module available is the `user_authentication` module. For more information, consult the [authentication](./authentication.md) reference.
 
 ## Using your API
 
-In an ideal situation, you should be able to use one of Obsidian Server's client SDKs to communicate with your application.  When an SDK doesn't exist for a given platform, you can use an HTTP client to access the methods directly.  For more information, see the [API](./API.html) documentation.
+In an ideal situation, you should be able to use one of Obsidian Server's client SDKs to communicate with your application.  When an SDK doesn't exist for a given platform, you can use an HTTP client to access the methods directly.  For more information, see the [API](./API.md) documentation.

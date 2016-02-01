@@ -73,7 +73,7 @@ Parmigiana does **not** provide any implicit saving of associations.  To assign 
 
 ## Querying Associations
 
-To query for all the houses owned by a specific `user`, we'd simply construct a `criteria` with the `owner` key set to the user's `id`.  That criteria would then be passed to the `house` resource's `read` endpoint.  For more information on querying, see the [resources](./resources.html) documentation, as well as the [API](./API.html) documentation.
+To query for all the houses owned by a specific `user`, we'd simply construct a `criteria` with the `owner` key set to the user's `id`.  That criteria would then be passed to the `house` resource's `read` endpoint.  For more information on querying, see the [resources](./resources.md) documentation, as well as the [API](./API.md) documentation.
 
 ## Populating Associations
 

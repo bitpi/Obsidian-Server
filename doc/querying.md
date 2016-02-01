@@ -4,7 +4,7 @@
 
 ## Available Criteria Modifiers
 
-The following modifiers are available for use in `criteria` objects (see [resources](./resources.html) documentation):
+The following modifiers are available for use in `criteria` objects (see [resources](./resources.md) documentation):
 
 * `'<'` (less than)
 * `'<='` (less than or equal)
@@ -18,7 +18,7 @@ The following modifiers are available for use in `criteria` objects (see [resour
 
 ## Usage
 
-Considering the resource example in the [resources](./resources.html) documentation, we'll aim to query for photos with more than 100 likes.
+Considering the resource example in the [resources](./resources.md) documentation, we'll aim to query for photos with more than 100 likes.
 
 To `update` photos with _exactly_ 100 likes, we can send the following body in the request to `PATCH /photo/update/`:
 

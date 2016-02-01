@@ -6,14 +6,14 @@ Obsidian Server is a database-agnostic server application that provides a standa
 
 ## Table of Contents
 
-* [Getting Started](./doc/getting_started.html)
-* [Resources](./doc/resources.html)
-* [Relationships](./doc/relationships.html)
-* [Querying](./doc/querying.html)
-* [Authentication](./doc/authentication.html)
-* [API](./doc/api.html)
-* [Advanced Configuration](./doc/configuration.html)
-* [Adding Custom Functionality](./doc/custom.html)
+* [Getting Started](./doc/getting_started.md)
+* [Resources](./doc/resources.md)
+* [Relationships](./doc/relationships.md)
+* [Querying](./doc/querying.md)
+* [Authentication](./doc/authentication.md)
+* [API](./doc/api.md)
+* [Advanced Configuration](./doc/configuration.md)
+* [Adding Custom Functionality](./doc/custom.md)
 
 ## Getting Help
 

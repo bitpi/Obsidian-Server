@@ -25,7 +25,7 @@ After following the prompts, you'll notice that the project generator created a 
 └── resources.json
 ```
 
-By default, new Obsidian Server projects are configured to store data as JSON in the `./db` directory. This is great for development but (obviously) not suitable for production. Visit the [configuration](./configuration.html) documentation for more information about project configurations (including the usage of production-grade databases).
+By default, new Obsidian Server projects are configured to store data as JSON in the `./db` directory. This is great for development but (obviously) not suitable for production. Visit the [configuration](./configuration.md) documentation for more information about project configurations (including the usage of production-grade databases).
 
 ## Registering a Client
 
@@ -35,7 +35,7 @@ Since Obsidian Server requires all requests to originate from authorized clients
 $ obsidian-server clients:add
 ```
 
-For more information regarding both client and user authentication, consult the [authentication](./authentication.html) reference.
+For more information regarding both client and user authentication, consult the [authentication](./authentication.md) reference.
 
 ## Testing the Configuration
 
@@ -71,4 +71,4 @@ If the project is configured correctly, `curl` should output JSON that looks som
 
 ## Next Steps
 
-Now that we've successfully accessed the `_metadata` resource, it's time to create our own.  Visit the [resources](./resources.html) documentation to learn more.
+Now that we've successfully accessed the `_metadata` resource, it's time to create our own.  Visit the [resources](./resources.md) documentation to learn more.
